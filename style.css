@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 .scroll-title {
+  width: 200;
   background-color:darkorange;
   color: #000000;
   display: flex;
